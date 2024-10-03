@@ -32,9 +32,16 @@
 ## Reflection Questions
 
 - What is the fundamental principle behind a stack?
+  You add a item and then you take away the last placed item
+  
 - In what situations would using a stack be beneficial?
+  The undo button 
+  
 - What is the fundamental principle behind a queue?
+  you add a item and then you can take out the first item in the list
+  
 - In what situations would using a queue be beneficial?
+  A queue system for tasks to be done in order or like a queue for tickets to some service
 
 ## Rubric
 
